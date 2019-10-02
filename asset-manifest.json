@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/24movies/static/css/main.b100e6da.chunk.css",
-    "main.js": "/24movies/static/js/main.232889ee.chunk.js",
-    "main.js.map": "/24movies/static/js/main.232889ee.chunk.js.map",
+    "main.js": "/24movies/static/js/main.79f0d7b8.chunk.js",
+    "main.js.map": "/24movies/static/js/main.79f0d7b8.chunk.js.map",
     "runtime-main.js": "/24movies/static/js/runtime-main.64403add.js",
     "runtime-main.js.map": "/24movies/static/js/runtime-main.64403add.js.map",
     "static/js/2.cdcaafab.chunk.js": "/24movies/static/js/2.cdcaafab.chunk.js",
     "static/js/2.cdcaafab.chunk.js.map": "/24movies/static/js/2.cdcaafab.chunk.js.map",
     "index.html": "/24movies/index.html",
-    "precache-manifest.69993482e696dab3bf6ad2afe4f87a2c.js": "/24movies/precache-manifest.69993482e696dab3bf6ad2afe4f87a2c.js",
+    "precache-manifest.3c760c9347952f6d59455bc5c3e25e5b.js": "/24movies/precache-manifest.3c760c9347952f6d59455bc5c3e25e5b.js",
     "service-worker.js": "/24movies/service-worker.js",
     "static/css/main.b100e6da.chunk.css.map": "/24movies/static/css/main.b100e6da.chunk.css.map",
     "static/media/logo.svg": "/24movies/static/media/logo.25bf045c.svg"

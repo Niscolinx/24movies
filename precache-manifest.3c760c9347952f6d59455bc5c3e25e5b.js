@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cac51bced2b06f1c4aa5d0c79210fdd4",
+    "revision": "c76f6bb4332607e6d5968a9609005c99",
     "url": "/24movies/index.html"
   },
   {
-    "revision": "b3159a08ee1b7da12069",
+    "revision": "402325885a581c6a1ead",
     "url": "/24movies/static/css/main.b100e6da.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/24movies/static/js/2.cdcaafab.chunk.js"
   },
   {
-    "revision": "b3159a08ee1b7da12069",
-    "url": "/24movies/static/js/main.232889ee.chunk.js"
+    "revision": "402325885a581c6a1ead",
+    "url": "/24movies/static/js/main.79f0d7b8.chunk.js"
   },
   {
     "revision": "72a1b2324263ba265867",
